@@ -58,5 +58,6 @@ def divide(a,b):
     """
     return a/b
 
-init()#Initialize the program
+if __name__ == '__main__':
+    init() #Initialize the program
 
